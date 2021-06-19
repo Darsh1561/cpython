@@ -242,7 +242,6 @@ Release Schedule
 
 See :pep:`619` for Python 3.10 release details.
 
-
 Copyright and License Information
 ---------------------------------
 
